@@ -10,13 +10,13 @@ Advanced data warehouse project for [HospitalDB](https://github.com/Saad711T/Hos
 
 ### Schemas
 ##### Tests
-[schema](dw_schemas/tests.png)
+![schema](dw_schemas/tests.png)
 ##### Admissions
-[schema](dw_schemas/admissions_schema.png)
+![schema](dw_schemas/admissions_schema.png)
 ##### Appointments
-[schema](dw_schemas/appointments_schema.png)
+![schema](dw_schemas/appointments_schema.png)
 ##### Prescriptions
-[schema](dw_schemas/prescriptions_schema.png)
+![schema](dw_schemas/prescriptions_schema.png)
 ### Project Structure
 ``` bash
 hospital-data-warehouse/
