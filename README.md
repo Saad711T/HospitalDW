@@ -38,7 +38,8 @@ hospital-data-warehouse/
 │   ├── etl_appointments.py
 │   ├── etl_tests.py
 │   ├── etl_prescriptions.py
-│   ├── common_utils.py          
+│   ├── common_utils.py
+│   ├── config.py
 │
 ├── dw_schemas/                  
 │   ├── admissions_schema.png
@@ -49,7 +50,7 @@ hospital-data-warehouse/
 ├── dashboards/       # Coming soon     
 │
 └── docs/                        
-    ├── README.md
+    └── README.md
 ```
 
 #### Credit by :
