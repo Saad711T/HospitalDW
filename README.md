@@ -50,6 +50,7 @@ hospital-data-warehouse/
 │
 └── docs/                        
     ├── README.md
+    └── HospitalDW.pdf # Documentation for the project
 ```
 
 #### Credit by :
