@@ -9,6 +9,9 @@ Advanced data warehouse project for [HospitalDB](https://github.com/Saad711T/Hos
 - [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi) : Strong bi/data visualization/business intelligence tool created by microsoft.
 
 ### Schemas
+#### Full diagram of data warehouse
+![Diagram](docs/diagram.png)
+
 ##### Tests
 ![schema](dw_schemas/tests_schema.png)
 ##### Admissions
