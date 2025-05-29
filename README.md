@@ -50,12 +50,8 @@ hospital-data-warehouse/
 ├── dashboards/       # Coming soon     
 │
 └── docs/                        
-<<<<<<< HEAD
     ├── README.md
     └── HospitalDW.pdf # Documentation for the project
-=======
-    └── README.md
->>>>>>> 5c2bfb4b8ba9ed2a338a1a29d66defa7f0c24e6c
 ```
 
 #### Credit by :
