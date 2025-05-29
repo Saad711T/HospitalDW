@@ -11,3 +11,6 @@
        <a href="https://github.com/Saad711T/HospitalDW/raw/main/docs/HospitalDW.pdf">Download PDF</a>.
     </p>
 </object>
+
+#### Diagram
+![Diagram](diagram.png)
